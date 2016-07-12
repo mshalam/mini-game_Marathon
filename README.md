@@ -1,5 +1,8 @@
 # Mini-Game Marathon
 
+Website: https://mshalam.github.io/mini-game_Marathon/
+
+
 Mini-Game Marathon Allows you to compete against your friends in a marathon of Mini-Games to see who is the true Champion. Including addictive games like: 
 
 
@@ -25,4 +28,3 @@ Gymnastics Swiping
 
 
 
-<small>Website: https://mshalam.github.io/mini-game_Marathon/<small>

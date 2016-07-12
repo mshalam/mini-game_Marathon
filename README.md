@@ -4,14 +4,23 @@ Mini-Game Marathon Allows you to compete against your friends in a marathon of M
 
 
 Timezone Tap
+
 Medieval Shielding
+
 Knockout Marathon
+
 Hurdle for Gold 
+
 Closing Ceremony Count
+
 The Great Skate
+
 Mini-Game Shootout
+
 Rise for Gold
+
 Fast Fencing
+
 Gymnastics Swiping
 
 

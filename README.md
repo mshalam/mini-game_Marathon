@@ -25,4 +25,4 @@ Gymnastics Swiping
 
 
 
-Website: https://mshalam.github.io/mini-game_Marathon/
+<small>Website: https://mshalam.github.io/mini-game_Marathon/<small>
